@@ -1,2 +1,0 @@
-# example-oauth
-Begin app
